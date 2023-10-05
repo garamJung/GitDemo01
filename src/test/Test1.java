@@ -3,7 +3,7 @@ package test;
 public class Test1 {
 	public static void main(String[] args) {
 		   
-		String name = "branchB";
+		String name = "branchC";
 		int score = 75; 
 		char grade = ' ';
       
